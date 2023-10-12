@@ -1,0 +1,14 @@
+.box {
+    color: red;
+    /* background: url('./dog.jpg'); */
+    /* font-family: 'myFont'; */
+  }
+
+/* 引入字体样式 */
+/* @font-face {
+    font-family: 'myFont';
+    src: url("./csnDrGcXbDLS.woff2") format("woff2"),
+    url("./Ft3IHsNvx5wV.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+  } */
